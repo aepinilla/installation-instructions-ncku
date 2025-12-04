@@ -42,7 +42,7 @@ Open the Terminal and enter the following commands
 
 2. **Open a PowerShell with Admin rights (click on "Run as Administrator").**
 
-3. ** In the PowerShell window, run the following command to install Chocolatey (if not already installed)**
+3. **In the PowerShell window, run the following command to install Chocolatey (if not already installed)**
 
    ```powershell
    # Run in an Administrator PowerShell
