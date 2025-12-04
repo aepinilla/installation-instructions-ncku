@@ -1,6 +1,4 @@
-# Installation Guide for Data Visualization Assistant
-
-Below are the step-by-step instructions for installing and running the project on both macOS and Windows.
+# Workshop on AI Agents for Data Visualization
 
 ## Initial setup
 
