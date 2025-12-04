@@ -58,5 +58,5 @@ Open the Terminal and enter the following commands
 5. **Install uv package manager**
 
    ```powershell
-   pip install uv
+   choco install uv
    ```
