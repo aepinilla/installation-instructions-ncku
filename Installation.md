@@ -7,14 +7,12 @@
 - GitHub Desktop [https://desktop.github.com/download/]
 - Miro [https://miro.com/apps/]
 
-2. If you are on Windows, also install GitBash: https://git-scm.com/install/windows
-
-3. Create an account in the following sites:
+2. Create an account in the following sites:
 - Kaggle [https://www.kaggle.com/]
 - GitHub [https://github.com/]
 - OpenAI API Platform [https://platform.openai.com]
 
-4. Generate an API key in OpenAI API Platform.
+3. Generate an API key in OpenAI API Platform.
 
 ## macOS Installation
 
